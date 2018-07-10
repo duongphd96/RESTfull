@@ -7,7 +7,7 @@
     <groupId>duong.pham</groupId>
     <artifactId>REST</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+    <packaging>jar</packaging>
     <dependencies>
         <dependency>
             <groupId>com.sparkjava</groupId>
