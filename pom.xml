@@ -38,7 +38,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>main</mainClass>
+                            <mainClass>PrimeController</mainClass>
                         </manifest>
                     </archive>
                     <encoding>UTF-8</encoding>
